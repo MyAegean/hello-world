@@ -26,3 +26,10 @@ hello-world
 
 
 [![This video presentation takes us to a little journey over moments that are related to the unofficial "student exchange" project, a couch-surfing-like initiative, including walks in the nature and life of the islands/units of the University of the Aegean, Greece. Events, exhibitions, talks, open discussions and other parallel activities take place over the Aegean Sea, and a lot of passion is shared among students and other people, who collaborate online and offline, and share great experiences! You can find more at my.aegean.gr and take part in your own activities as well with other fellow-colleagues and friends!](http://my.aegean.gr/gallery/31174-1/fbpagemyaegeanwlm2-VIDEOplayer2.jpg)](http://www.youtube.com/watch?v=HYGDtPIzsxo)
+
+
+#### More...
+
+| [![twitter/MyAegean](https://en.gravatar.com/avatar/b2282bfcdcee7f1f66d10ab146bd114d?s=70)](http://twitter.com/MyAegean "Follow @MyAegean on Twitter") |
+|---|
+| [My.Aegean.gr Community](http://my.aegean.gr/) |
